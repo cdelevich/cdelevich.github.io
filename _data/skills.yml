@@ -1,0 +1,31 @@
+technical:
+ - title: Python
+   level: Intermediate
+ - title: R
+   level: Intermediate
+ - title: SQL
+   level: Beginner
+ - title: GitHub
+   level: Intermediate
+ - title: Jekyll
+   level: Beginner
+ - title: Accessibility
+   level: Intermediate
+ - title: Dev ops
+   level: Beginner
+ - title: VSCode
+   level: Beginner
+ - title: PyCharm
+   level: Intermediate
+ - title: Terminal
+   level: Intermediate
+
+soft:
+ - title: Collaboration
+   level: Intermediate
+ - title: Problem-Solving / Critical Thinking
+   level: Expert
+ - title: Attention to Detail
+   level: Expert
+ - title: Organization
+   level: Intermediate

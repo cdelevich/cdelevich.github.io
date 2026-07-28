@@ -1,18 +1,17 @@
 ---
-layout: page
+layout: archive
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi! I'm Carolyn Delevich
+Born from a love for adventure, I've spent the past decade as a field biologist working in remote forests around the world. Upon completing my Masters, I connected with a reputable professor who was eager to foster my passion for field research as her PhD student, where we would collaborate on her ongoing projects in Malaysia. Three months into the program, my advisor fled the state and academia all together. I had two options: (1) leave the program and likely never pursue a PhD or (2) stay and get creative.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## My Skills
+### Technical Skills
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include technicalskills.md %}
 
+### Soft Skills
 
-[jekyll-organization]: https://github.com/jekyll
+{% include softskills.md %}
