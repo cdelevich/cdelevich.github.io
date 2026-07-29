@@ -1,4 +1,8 @@
 # main links
 main:
   - title: "About"
-    url: https://cdelevich.github.io/about/
+    url: /about/
+  - title: "My Work"
+    url: /mywork/
+  - title: "My Writing"
+    url: /mywriting/
