@@ -327,5 +327,26 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
+  # _projects/
+  - scope:
+      path: ""
+      type: projects
+    values:
+      author_profile: false
+  # _publications/
+  - scope:
+      path: ""
+      type: publications
+    values:
+      author_profile: false
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/

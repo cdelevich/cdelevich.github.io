@@ -1,6 +1,10 @@
 ---
 title: Publications
+layout: collection
 permalink: /publications/
+collection: publications
+entries_layout: grid
+classes: wide
 ---
 
-This is where I will document all of my publications and include .pdfs for each that can be downloaded.
+My publications.

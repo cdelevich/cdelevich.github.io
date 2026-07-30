@@ -1,6 +1,10 @@
 ---
 title: Projects
+layout: collection
 permalink: /projects/
+collection: projects
+entries_layout: grid
+classes: wide
 ---
 
-This is where I will display all past and current projects.
+Select projects that I am highlighting on my homepage.
