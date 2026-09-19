@@ -28,3 +28,7 @@ Work on soil fungal communities in the Amazonian rainforest.
 {% include gallery caption="Soils were collected, sequenced for fungal DNA, and the recovered fungal communities were visualized with clustering methods." %}
 
 This is more information about this study.
+
+[Download a PDF of this publication][1]
+
+[1] :{{ publications.url }}/downloads/2021_delevich-et-al_biotropica.pdf
