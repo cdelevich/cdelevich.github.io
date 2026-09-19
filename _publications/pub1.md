@@ -31,4 +31,4 @@ This is more information about this study.
 
 [Download a PDF of this publication][1]
 
-[1] :{{ publications.url }}/downloads/2021_delevich-et-al_biotropica.pdf
+[1] :{{ site.publications.url }}/downloads/2021_delevich-et-al_biotropica.pdf
