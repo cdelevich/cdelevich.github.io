@@ -335,6 +335,7 @@ defaults:
       type: projects
     values:
       author_profile: false
+      read_time: false
   # _publications/
   - scope:
       path: ""
