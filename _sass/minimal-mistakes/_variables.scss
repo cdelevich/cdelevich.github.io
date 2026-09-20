@@ -52,9 +52,9 @@ $monospace-code: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consol
 $handwritten: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
 
 /* Defaults used in Minimal mistakes */
-$default-sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$default-sans-serif: "owners-text", sans-serif;
 $default-serif: Georgia, Times, serif;
-$default-monospace: Monaco, Consolas, "Lucida Console", monospace;
+$default-monospace: "cake-mono", sans-serif;
 
 /* Emoji native from modern font stack - add to the end of the font-face for native emojis */
 $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
@@ -67,7 +67,7 @@ $monospace: $default-monospace !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
-$caption-font-family: "Google Sans Flex";
+$caption-font-family:  $sans-serif !default;
 
 /* font weights */
 $caption-font-weight: 300;
