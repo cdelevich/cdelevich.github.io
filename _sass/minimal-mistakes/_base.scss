@@ -14,7 +14,7 @@ body {
   margin: 0;
   padding: 0;
   color: $text-color;
-  font-family: "Google Sans Flex";
+  font-family: "salbabida-sans-pro", sans-serif;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -24,7 +24,7 @@ body {
 }
 
 a {
-  font-family: "Bungee";
+  font-family: "salbabida-sans-pro", sans-serif;
 }
 
 h1,
@@ -41,18 +41,17 @@ h6 {
 h1 {
   margin-top: 0;
   font-size: $h-size-1;
-  font-family: "Bungee";
+  font-family: "salbabida-sans-pro", sans-serif;
 }
 
 h2 {
   font-size: $h-size-2;
-  font-family: "Bungee";
-
+  font-family: "salbabida-sans-pro", sans-serif;
 }
 
 h3 {
   font-size: $h-size-3;
-  font-family: "Playwrite GB J";
+  font-family: "owners-text", sans-serif;
 }
 
 h4 {
@@ -74,7 +73,7 @@ small,
 
 p {
   margin-bottom: 1.3em;
-  font-family: "Google Sans Flex";
+  font-family: "salbabida-sans-pro", sans-serif;
 }
 
 u,
