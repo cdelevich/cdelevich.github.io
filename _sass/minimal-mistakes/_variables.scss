@@ -18,6 +18,11 @@ $indent-var: 1.3em !default;
 /* Emoji native from modern font stack - add to the end of the font-face for native emojis */
 $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 
+/* Defaults fonts */
+$default-sans-serif: "futura-100", sans-serif;
+$default-serif: "quinn-text", serif;
+$default-monospace: "cake-mono", sans-serif;
+
 /* system typefaces */
 $serif: $default-serif !default;
 $sans-serif: $default-sans-serif !default;
@@ -41,10 +46,6 @@ $navmast-font: $h3-font;
 $navmast-weight: 900;
 $navmast-style: italic;
 
-/* Defaults fonts */
-$default-sans-serif: "futura-100", sans-serif;
-$default-serif: "quinn-text", serif;
-$default-monospace: "cake-mono", sans-serif;
 
 /* global fonts */
 $global-font-family: $sans-serif !default;
