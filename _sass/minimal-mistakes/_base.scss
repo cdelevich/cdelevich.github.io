@@ -74,7 +74,8 @@ small,
 
 p {
   margin-bottom: 1.3em;
-  font-family: "sauna-new", sans-serif;
+  font-family: $global-font-family;
+  font-weight: $body-font-weight;
 }
 
 u,
