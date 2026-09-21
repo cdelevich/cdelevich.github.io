@@ -1,5 +1,6 @@
 ---
 title: false
+breadcrumbs: false
 permalink: /about/
 ---
 
