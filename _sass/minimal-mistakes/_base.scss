@@ -25,7 +25,9 @@ body {
 }
 
 a {
-  font-family: $standout;
+  font-family: $navmast-font;
+  font-weight: $navmast-weight;
+  font-style: $navmast-style;
 }
 
 h1,
@@ -36,23 +38,28 @@ h5,
 h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: $global-font-family;
 }
 
 h1 {
   margin-top: 0;
+  font-family: $h1-font;
+  font-weight: $h1-weight;
+  font-style: $h1-style;
   font-size: $h-size-1;
-  font-weight: $h-weight-1;
 }
 
 h2 {
+  font-family: $h2-font;
+  font-weight: $h2-weight;
+  font-style: $h2-style;
   font-size: $h-size-2;
-  font-weight: $h-weight-2;
 }
 
 h3 {
+  font-family: $h3-font;
+  font-weight: $h3-weight;
+  font-style: $h3-style;
   font-size: $h-size-3;
-  font-weight: $h-weight-3;
 }
 
 h4 {
