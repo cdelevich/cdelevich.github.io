@@ -89,3 +89,6 @@ build-iPhoneSimulator/
 
 # project notes Word document
 *.docx
+
+# do not include Adobe Illustrator design mock-ups
+/design-mockups
