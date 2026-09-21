@@ -5,6 +5,7 @@
 .masthead {
   position: relative;
   border-bottom: 5px solid $border-color;
+  background-color: $masthead-background-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -82,6 +83,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  min-width: 100em;
 
   &--lg {
     padding-inline-end: 2em;

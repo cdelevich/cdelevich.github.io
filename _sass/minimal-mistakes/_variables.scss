@@ -21,7 +21,7 @@ $emoji-native: 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto C
 /* Defaults fonts */
 $default-sans-serif: "futura-100", sans-serif;
 $default-serif: "quinn-text", serif;
-$default-monospace: "cake-mono", sans-serif;
+$default-monospace: "cake-mono", monospace;
 
 /* system typefaces */
 $serif: $default-serif !default;
@@ -51,7 +51,7 @@ $navmast-style: italic;
 $global-font-family: $sans-serif !default;
 
 $caption-font-family:  $serif !default;
-$caption-font-weight: 300;
+$caption-font-weight: 400;
 
 $body-font-weight: 400;
 
@@ -104,6 +104,7 @@ $muted-text-color: mix(#fff, $text-color, 20%) !default;
 $border-color: $gray !default;
 $form-background-color: $lighter-gray !default;
 $footer-background-color: $warms02 !default;
+$masthead-background-color: $warms02 !default;
 
 $primary-color: #6f777d !default;
 $success-color: #3fa63f !default;
