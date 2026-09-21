@@ -58,14 +58,14 @@
   li {
     font-family: $global-font-family;
     font-style: italic;
-    font-weight: 400;
+    font-weight: 500;
     font-size: $type-size-6;
     line-height: 1.5;
   }
 
   li {
     font-style: normal;
-    font-weight: 500;
+    font-weight: 400;
   }
 
   img {
@@ -146,7 +146,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 2px solid $warms01;
     }
   }
 }
@@ -164,10 +164,10 @@
   }
 
   a {
-    color: $warms01;
+    color: $cools01;
     font-family: $h3-font;
     font-style: $h3-style;
-    font-weight: $h3-weight;
+    font-weight: 700;
     text-decoration: none;
   }
 }
@@ -322,11 +322,14 @@
     padding-block: 2px;
     padding-inline-end: 5px;
     color: inherit;
+    font-family: $global-font-family;
+    font-style: normal;
+    font-weight: 400;
     font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration-color: $warms01;
     }
   }
 }
