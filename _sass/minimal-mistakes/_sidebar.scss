@@ -56,11 +56,16 @@
 
   p,
   li {
-    font-family: $h3-font;
-    font-style: $h3-style;
-    font-weight: $h3-weight;
+    font-family: $global-font-family;
+    font-style: italic;
+    font-weight: 400;
     font-size: $type-size-6;
     line-height: 1.5;
+  }
+
+  li {
+    font-style: normal;
+    font-weight: 500;
   }
 
   img {
@@ -159,7 +164,10 @@
   }
 
   a {
-    color: inherit;
+    color: $warms01;
+    font-family: $h3-font;
+    font-style: $h3-style;
+    font-weight: $h3-weight;
     text-decoration: none;
   }
 }
