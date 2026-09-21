@@ -56,7 +56,9 @@
 
   p,
   li {
-    font-family: $standout;
+    font-family: $h3-font;
+    font-style: $h3-style;
+    font-weight: $h3-weight;
     font-size: $type-size-6;
     line-height: 1.5;
   }
