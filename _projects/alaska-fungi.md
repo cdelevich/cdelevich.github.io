@@ -11,6 +11,7 @@ sidebar:
     text: "Principal Investigator"
   - title: "Responsibilities"
     text: "Collect above- and below-ground fungi."
+  nav: "main.projects"
 gallery:
   - url: /assets/images/birch-forest.jpeg
     image_path: assets/images/birch-forest.jpeg
