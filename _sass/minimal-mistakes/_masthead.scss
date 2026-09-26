@@ -33,6 +33,9 @@
     }
 
     a {
+      font-family: $navmast-font;
+      font-weight: $navmast-weight;
+      font-style: $navmast-style;
       text-decoration: none;
       font-size: $type-size-3;
     }
