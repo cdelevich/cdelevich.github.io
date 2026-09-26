@@ -117,35 +117,31 @@ author:
   avatar           : "/assets/images/bio-avatar-placeholder.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data scientist."
   location         : "Pittsburgh, PA, USA"
-  email            :
-  # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
+  email            : "mailto:cdelevich@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-square-envelope"
-      # url: "mailto:carolyndelevich@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://cdelevich.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-square-x-twitter"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-github-square"
       url: "https://github.com/cdelevich"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin-square"
+      url: "https://www.linkedin.com/in/cdelevich"
+    - label: "Google Scholar"
+      icon: "fa fa-google"
+      url: "https://scholar.google.com/citations?user=EF11DdEAAAAJ&hl=en"
+    - label: "ResearchGate"
+      icon: "fa fa-user-circle" # generic user circle
+      url: "https://www.researchgate.net/profile/Carolyn-Delevich"
+    - label: "ORCID"
+      icon: "fa fa-id-badge" # generic ID badge
+      url: "https://orcid.org/0000-0003-3981-299X"
 
 
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
+    - label: "Source Code"
       icon: "fab fa-fw fa-github"
-      url: "https://cdelevich.github.io/"
+      url: "https://github.com/cdelevich/cdelevich.github.io"
   since: "2026"
 
 
